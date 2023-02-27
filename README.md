@@ -1,1 +1,3 @@
-# todo_app_ios
+# ToDo App
+
+Simple iOS ToDo app created to play around Composable Architecture and explore its benefits.
